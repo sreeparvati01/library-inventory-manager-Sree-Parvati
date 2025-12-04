@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Library Management System
 
 A simple Python project to manage library books using classes, JSON persistence, and a command-line interface (CLI).
@@ -20,6 +20,4 @@ A simple Python project to manage library books using classes, JSON persistence,
 ## Usage
 ```bash
 python cli/main.py
-=======
-# library-inventory-manager-Sree-Parvati
->>>>>>> 95365328eeb072201bc021ccfb3eab3a53d9cce4
+
