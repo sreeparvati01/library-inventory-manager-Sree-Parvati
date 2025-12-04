@@ -1,0 +1,8 @@
+
+
+## **5️ `.gitignore`**
+```gitignore
+__pycache__/
+*.pyc
+books.json
+library.log
